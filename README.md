@@ -7,7 +7,7 @@ O objetivo hoje é que você treine suas habilidades em React criando:
  - Props
  - States
 
-## O História
+## A História
 
 Você cobriu um evento internacional no qual uma pessoa super famosa comentou sobre alguns dos temas mais debatidos na internet: É biscoito ou bolacha? Sopa é janta? Sushi e açaí são superestimados?
 
