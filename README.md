@@ -11,7 +11,7 @@ O objetivo hoje é que você treine suas habilidades em React criando:
 
 ## A História
 
-Você cobriu um evento internacional no qual uma pessoa super famosa comentou sobre alguns dos temas mais debatidos na internet: É biscoito ou bolacha? Sopa é janta? Sushi e açaí são superestimados?
+Você cobriu um evento internacional no qual uma pessoa super famosa comentou sobre alguns dos temas mais debatidos na internet: _"É biscoito ou bolacha? Sopa é janta? Sushi e açaí são superestimados?"_ E agora você precisa publicar essa manchete!
 
 _"Nossa, mas que história nada vê!"_
 
