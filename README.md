@@ -36,9 +36,8 @@ Os nomes das páginas e das rotas você pode escolher.
 - [ ] Crie as 5 rotas
 - [ ] Crie as 5 páginas
 - [ ] Teste se suas rotas estão funcionando
-
-- [ ] 
-- [ ] 
+- [ ] a
+- [ ] b
 
 #### 2 -  Crie os componentes que serão usados nas páginas com as props necessárias
 Você é livre pra criar os componentes da forma que quiser, porém, deve ter os seguintes componentes: Button, Input, Radio, Select e **cada um deles deve conter as props que você necessitar**.
