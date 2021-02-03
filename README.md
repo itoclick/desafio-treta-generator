@@ -28,7 +28,7 @@ Calma, calma! Tem um gifzin s2
 ![](treta-generator.gif)
 
 
-## Requisitos
+## Desafios
 
 #### 1 - Crie 5 rotas, cada uma deve renderizar uma página
 Os nomes das páginas e das rotas você pode escolher.
