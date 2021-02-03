@@ -32,6 +32,7 @@ Calma, calma! Tem um gifzin s2
 
 #### 1 - Crie 5 rotas, cada uma deve renderizar uma página
 Os nomes das páginas e das rotas você pode escolher.
+
 - [ ] Crie as 5 rotas
 - [ ] Crie as 5 páginas
 - [ ] Teste se suas rotas estão funcionando
