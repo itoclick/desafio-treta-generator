@@ -47,7 +47,7 @@ Você é livre pra criar os componentes da forma que quiser, porém, deve ter os
 - [ ] Crie as props pra cada um dos componentes
  
  #### 3 - Monte as páginas
- As quatro primeiras páginas devem possuir um botão de "Próxima", que leva para a etapa (página e rota) seguinte.
+ As quatro primeiras páginas devem possuir um botão de "Próxima", que leva para a etapa (página e rota) seguinte. Lembre-se:
 
  - [ ] A primeira página deve conter o título "Digite um nome" e um input de texto
  - [ ] A segunda página deve conter o título "Qual é o certo?" com dois radios buttons contendo as seguintes opções: biscoito/bolacha, sendo possível marcar apenas uma delas
@@ -66,3 +66,9 @@ _"Em entrevista internacional, **Leticia** teve que debater sobre a discussão m
 Boa sorte!
 
 O primeiro que terminar, vence!! \o/
+
+E pra encerrar, cante junto comigo:
+
+:notes: _"O localStorage pode me ajudar, o state do react-router-dom também pode me salvar!
+Vou ter que passar props, vou ter que passar state! Vai dar certo e eu vou andar de skate!"_ :notes: 
+
