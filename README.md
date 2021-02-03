@@ -6,6 +6,8 @@ O objetivo hoje é que você treine suas habilidades em React criando:
  - Componentes
  - Props
  - States
+ 
+ Você terá até 03/02/2021 às 16:40h pra terminar :rocket:
 
 ## A História
 
