@@ -45,6 +45,7 @@ Você é livre pra criar os componentes da forma que quiser, porém, deve ter os
 - [ ] Crie o componente de input radio
 - [ ] Crie o componente de select
 - [ ] Crie as props pra cada um dos componentes
+- [ ] this is an incomplete item
  
  #### 3 - Monte as páginas
  As quatro primeiras páginas devem possuir um botão de "Próxima", que leva para a etapa (página e rota) seguinte. Lembre-se:
