@@ -1,0 +1,16 @@
+.preferencia {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  height: 200px;
+  width: 300px;
+  margin: 30px;
+}
+
+.options {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  justify-content: space-between;
+}

@@ -1,0 +1,7 @@
+.animal {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #1a1b1c;
+}

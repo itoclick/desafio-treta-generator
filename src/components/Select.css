@@ -1,0 +1,21 @@
+.select {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+  height: 200px;
+  margin: 20px 0 40px;
+}
+
+.select select {
+  border: 1px solid #006dfb;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border-radius: 3px;
+  padding: 8px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-top: 10px;
+  text-transform: uppercase;
+  font-weight: 500;
+}
