@@ -4,12 +4,11 @@ import './Manchete.css';
 class Manchete extends Component {
   constructor(props) {
     super(props);
-    const { nome, preferencia, comida , animal} = this.props.location.state;
     this.state= {
-      nome,
-      preferencia,
-      comida,
-      animal,
+      nome: 'não tem, adicione o redux',
+      preferencia: 'não tem, adicione o redux',
+      comida: 'não tem, adicione o redux',
+      animal: 'não tem, adicione o redux',
     }
   }
 

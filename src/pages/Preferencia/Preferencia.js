@@ -1,22 +1,16 @@
 import React, { Component } from 'react';
-import { connect } from 'react-redux';
-import { Radio, Button } from '../components';
+import { Radio, Button } from '../../components';
 import './Preferencia.css';
-import { setPreference } from '../store/actions/actions';
 
 class Preferencia extends Component {
   constructor(props) {
     super(props);
-    //podemos recuperar da store? sim, mas precisa?
     this.state= {
-      preferencia: this.props.preferencia,
+      preferencia: 'bolacha',
     }
   }
 
   render() {
-    const { nome, preferencia } = this.state;
-    console.log('preferencia', preferencia)
-
     return (
       <div className="preferencia">
         <h1>Escolha o certo:</h1>
@@ -30,12 +24,4 @@ class Preferencia extends Component {
   }
 }
 
-const mapStateToProps = (state) => ({
-  preferencia: state.forms.preferencia,
-});
-
-const mapDispatchToProps = (dispatch) => ({
-  setPreferencia: (data) => dispatch(setPreference(data)),
-})
-
-export default connect(mapStateToProps, mapDispatchToProps)(Preferencia);
+export default Preferencia;
