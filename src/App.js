@@ -1,10 +1,15 @@
 import React, { Component } from 'react';
+
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
 import { Animal, Comida, Manchete, Nome, Preferencia } from './pages';
+import InputName from './Pages/InputName';
+
+
 
 class App extends Component {
   render() {
     return (
+
       <BrowserRouter>
         <Switch>
           <Route exact path="/" component={ Nome } />
@@ -14,6 +19,7 @@ class App extends Component {
           <Route path="/manchete" component={ Manchete } />
         </Switch>
       </BrowserRouter>
+
     );
   }
 }
