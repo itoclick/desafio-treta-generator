@@ -1,0 +1,42 @@
+.comida {
+  display: flex;
+  flex-direction: column;
+  height: 260px;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.comida .opcao {
+  border: 1px solid #41197f;
+  background-color: #FFF;
+  color: #41197f;
+  display: flex;
+  font-weight: 500;
+  justify-content: center;
+  align-items: center;
+  height: 40px;
+  margin-bottom: 20px;
+}
+
+.comida a {
+  text-decoration: none;
+}
+
+.comida .escolhida {
+  background-color: #41197f;
+  border: none;
+  color: #FFF;
+  display: flex;
+  justify-content: center;
+  height: 40px;
+  margin-bottom: 20px;
+}
+
+.comida .comida-opcoes {
+  display: flex;
+  height: 100%;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-bottom: 40px;
+}

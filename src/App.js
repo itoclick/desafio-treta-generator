@@ -1,16 +1,25 @@
 import React, { Component } from 'react';
-import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
+
+import { BrowserRouter, Route, Switch } from 'react-router-dom';
+import { Animal, Comida, Manchete, Nome, Preferencia } from './pages';
 import InputName from './Pages/InputName';
+
 
 
 class App extends Component {
   render() {
     return (
-      <Router>
+
+      <BrowserRouter>
         <Switch>
-          <Route exatc path="/" component={ InputName } />
+          <Route exact path="/" component={ Nome } />
+          <Route path="/preferencia" component={ Preferencia } />
+          <Route path="/comida" component={ Comida } />
+          <Route path="/animal" component={ Animal } />
+          <Route path="/manchete" component={ Manchete } />
         </Switch>
-      </Router>
+      </BrowserRouter>
+
     );
   }
 }
