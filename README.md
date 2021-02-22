@@ -1,4 +1,4 @@
-# TRETA GENERATOR
+# TRETA GENERATOR - DLC REDUX
 
 Eea meu povo! Tudo bem? Hoje o dia vai ser supimpa e vamos te desafiar numa **jornada jornalística**!
 O objetivo hoje é que você treine suas habilidades em React criando:
@@ -7,6 +7,10 @@ O objetivo hoje é que você treine suas habilidades em React criando:
  - Props
  - States
 
+Lembre-se: o redux e o react-redux já estão no package.json, basta você rodar o comando `npm install`
+
+
+**Em breve atualizações com redux**
 ## O História
 
 Você cobriu um evento internacional no qual uma pessoa super famosa comentou sobre alguns dos temas mais debatidos na internet: É biscoito ou bolacha? Sopa é janta? Sushi e açaí são superestimados?
